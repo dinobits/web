@@ -1,4 +1,6 @@
 {
+    "name": "dinobits/web",
+    "description": "Simple dinobits website with info, registration, giveaways, games, schedules etc.",
     "type": "project",
     "license": "proprietary",
     "require": {
